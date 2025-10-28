@@ -20,8 +20,6 @@ Platforma normalizează surse în timp real în **vederi filtrabile**, iar eveni
 ## Experiență de utilizare: mai puține clicuri, mai mult ritm — inclusiv pe mobil
 Atunci când timpul presează, interfața trebuie să se dea la o parte. **Galileo AI** ține acțiunile critice la unul-două clicuri distanță, afișează opțiuni contextuale doar când aduc valoare și păstrează aceeași logică mentală pe desktop și pe mobil. Aplicația nu e o simplă oglindă: confirmi alerte, ajustezi expunerea, partajezi instantanee către părțile interesate. Pentru a vedea cum se leagă toate acestea în practică, merită să **[vezi ce poate face Galileo AI pentru tine](https://galileoai.ro)** și să parcurgi un scenariu ghidat cap-coadă.
 
-![Analist verificând praguri și jurnalul de schimbări înainte de execuție](https://www.upwords.it/_Resources/Persistent/2/e/0/0/2e0093a3b193422b0783c563198cc17dec51f4e4/4.png)
-
 ## Cazuri de utilizare care produc valoare zi de zi
 Proba de foc nu este demo-ul, ci rutina sub presiune, când volatilitatea crește și resursele sunt limitate.  
 – **Veghere de trend cu praguri explicite**: momentum, volatilitate și întreruperi de nivel definite per instrument, astfel încât reacțiile să rămână reprodu­cibile, nu impulsive.  
